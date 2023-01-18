@@ -1,0 +1,27 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "Create a generator for readme files",
+  "main": "index.js",
+  "scripts": {
+    "test": "none && err 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnollen23/ReadmeGen.git"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "author": "Jacob Nollen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnollen23/ReadmeGen/issues"
+  },
+  "homepage": "https://github.com/jnollen23/ReadmeGen#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
